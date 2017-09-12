@@ -1,0 +1,32 @@
+{
+  "name": "asyncproject",
+  "version": "1.0.0",
+  "description": "Async Presentation Project",
+  "main": "server.js",
+  "babel": {
+    "presets": "babili"
+  },
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tridon777/AsyncPresentationProject.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Paul Searcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tridon777/AsyncPresentationProject/issues"
+  },
+  "homepage": "https://github.com/tridon777/AsyncPresentationProject#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-minify": "^0.2.0",
+    "mongodb": "^2.2.30",
+    "webpack": "^3.5.6"
+  }
+}

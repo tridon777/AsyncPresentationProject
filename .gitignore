@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+comparisons.js
+thunks-ex.js
+presentation.md
